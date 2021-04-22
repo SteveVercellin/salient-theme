@@ -1,0 +1,62 @@
+[2021-04-19 07:22:45 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:50 : INFO] - 
+ 
+[2021-04-19 07:27:50 : INFO] - Header for logs at time:  Mon, 19 Apr 2021 07:27:50 +0000 on https://reinnovame.com 
+[2021-04-19 07:27:50 : INFO] - WP: 5.7.1 
+[2021-04-19 07:27:50 : INFO] - PHP: 7.3.24 (litespeed, Linux lhcp3053.webapps.net 3.10.0-962.3.2.lve1.5.38.el7.x86_64 #1 SMP Thu Jun 18 05:28:41 EDT 2020 x86_64) 
+[2021-04-19 07:27:50 : INFO] - MySQL: 5.6.47 
+[2021-04-19 07:27:50 : INFO] - WPLANG: it_IT 
+[2021-04-19 07:27:50 : INFO] - Server: Apache 
+[2021-04-19 07:27:50 : INFO] - Outbound connections: N 
+[2021-04-19 07:27:50 : INFO] - safe_mode: 0 
+[2021-04-19 07:27:50 : INFO] - max_execution_time: 300 
+[2021-04-19 07:27:50 : INFO] - memory_limit: 256M (used: 76M | 77M) 
+[2021-04-19 07:27:50 : INFO] - multisite: N 
+[2021-04-19 07:27:50 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-04-19 07:27:50 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2021-04-19 07:27:50 : INFO] - Set semaphore last lock (smush) time to 2021-04-19 07:27:50 
+[2021-04-19 07:27:50 : INFO] - Semaphore lock (smush) complete 
+[2021-04-19 07:27:50 : INFO] - Processing task with ID : 72, and type 'smush' 
+[2021-04-19 07:27:50 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:50 : INFO] - 95 
+[2021-04-19 07:27:50 : INFO] - Backing up the original image - 2021/04/reinnovame-bg-chi-siamo-removebg-preview-updraft-pre-smush-original.png 
+[2021-04-19 07:27:51 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:51 : INFO] - 95 
+[2021-04-19 07:27:51 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:51 : INFO] - 95 
+[2021-04-19 07:27:51 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:51 : INFO] - 95 
+[2021-04-19 07:27:51 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:52 : INFO] - 95 
+[2021-04-19 07:27:52 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:52 : INFO] - 95 
+[2021-04-19 07:27:53 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:53 : INFO] - 95 
+[2021-04-19 07:27:53 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:53 : INFO] - 95 
+[2021-04-19 07:27:54 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:54 : INFO] - 95 
+[2021-04-19 07:27:54 : INFO] - Re_Smush_It_Task with attachment ID : 2165, autocreated on : April 19, 2021 07:22:45 
+[2021-04-19 07:27:54 : INFO] - 95 
+[2021-04-19 07:27:55 : INFO] - Successfully optimized the image - /home/ng3rcyas/public_html/wp-content/uploads/2021/04/reinnovame-bg-chi-siamo-removebg-preview.png.The file was compressed from 110.26 KB to 26.58 KB saving 75.9 percent using WP-Optimize 
+[2021-04-19 07:27:55 : INFO] - Completed processing task with ID : 72, and type 'smush' 
+[2021-04-19 07:27:55 : INFO] - Decremented the semaphore (smush) by 1 
+[2021-04-19 07:27:55 : INFO] - Semaphore (smush) unlocked 
+[2021-04-19 07:27:55 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2021-04-19 07:27:55 : INFO] - Semaphore (smush, reinn0vam3_options) was successfully cleaned up 
+[2021-04-19 07:27:55 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2021-04-19 07:40:29 : INFO] - 
+ 
+[2021-04-19 07:40:29 : INFO] - Header for logs at time:  Mon, 19 Apr 2021 07:40:29 +0000 on https://reinnovame.com 
+[2021-04-19 07:40:29 : INFO] - WP: 5.7.1 
+[2021-04-19 07:40:29 : INFO] - PHP: 7.3.24 (litespeed, Linux lhcp3053.webapps.net 3.10.0-962.3.2.lve1.5.38.el7.x86_64 #1 SMP Thu Jun 18 05:28:41 EDT 2020 x86_64) 
+[2021-04-19 07:40:29 : INFO] - MySQL: 5.6.47 
+[2021-04-19 07:40:29 : INFO] - WPLANG: it_IT 
+[2021-04-19 07:40:29 : INFO] - Server: Apache 
+[2021-04-19 07:40:29 : INFO] - Outbound connections: N 
+[2021-04-19 07:40:29 : INFO] - safe_mode: 0 
+[2021-04-19 07:40:29 : INFO] - max_execution_time: 300 
+[2021-04-19 07:40:29 : INFO] - memory_limit: 256M (used: 76M | 77M) 
+[2021-04-19 07:40:29 : INFO] - multisite: N 
+[2021-04-19 07:40:29 : INFO] - openssl: OpenSSL 1.1.1d  10 Sep 2019 
+[2021-04-19 07:40:29 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 

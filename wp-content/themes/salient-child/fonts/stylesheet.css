@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'National';
+    src: url('National-Light.woff2') format('woff2'),
+        url('National-Light.woff') format('woff'),
+        url('National-Light.ttf') format('truetype'),
+        url('National-Light.svg#National-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'National';
+    src: url('National-Thin.woff2') format('woff2'),
+        url('National-Thin.woff') format('woff'),
+        url('National-Thin.ttf') format('truetype'),
+        url('National-Thin.svg#National-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'National';
+    src: url('National-Semibold.woff2') format('woff2'),
+        url('National-Semibold.woff') format('woff'),
+        url('National-Semibold.ttf') format('truetype'),
+        url('National-Semibold.svg#National-Semibold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+

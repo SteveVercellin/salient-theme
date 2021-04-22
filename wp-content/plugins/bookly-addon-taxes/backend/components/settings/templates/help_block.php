@@ -1,0 +1,2 @@
+<?php if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly ?>
+<small class="form-text text-muted"><?php esc_html_e( 'This setting affects the cost of the booking according to the payment gateway used. Specify a percentage or fixed amount. Use minus ("-") sign for decrease/discount. Note that tax will not be calculated for the additional amount to the cost. If you need to report the exact tax amount to the payment system, do not use additional charge.', 'bookly' ) ?></small>
